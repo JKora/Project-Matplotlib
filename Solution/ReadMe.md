@@ -276,7 +276,7 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![png](https://github.com/JKora/Project-Matplotlib/blob/master/Solution/PieChrt_TotalRides.png)
 
 
 * % of Total Drivers by City Type
