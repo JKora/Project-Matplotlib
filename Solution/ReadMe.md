@@ -210,7 +210,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+![png](https://github.com/JKora/Project-Matplotlib/blob/master/Solution/Pyber_Bubbleplot.png)
 
 
  * % of Total Fares by City Type
