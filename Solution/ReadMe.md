@@ -244,7 +244,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](https://github.com/JKora/Project-Matplotlib/blob/master/Solution/PieChrt_TotalFares.png)
 
 
 * % of Total Rides by City Type
