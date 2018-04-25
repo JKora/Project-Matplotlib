@@ -42,19 +42,6 @@ city_ride_stats.head(5)
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -210,7 +197,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+![png](https://github.com/JKora/Project-Matplotlib/blob/master/Solution/Pyber_Bubbleplot.png)
 
 
  * % of Total Fares by City Type
@@ -244,7 +231,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](https://github.com/JKora/Project-Matplotlib/blob/master/Solution/PieChrt_TotalFares.png)
 
 
 * % of Total Rides by City Type
@@ -276,7 +263,7 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![png](https://github.com/JKora/Project-Matplotlib/blob/master/Solution/PieChrt_TotalRides.png)
 
 
 * % of Total Drivers by City Type
@@ -308,5 +295,5 @@ plt.show()
 ```
 
 
-![png](output_15_0.png)
+![png](https://github.com/JKora/Project-Matplotlib/blob/master/Solution/PieChrt_TotalDrivers.png)
 
